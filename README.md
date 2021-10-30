@@ -4,7 +4,7 @@ This project is based on detecting the Traffic light.
 - This application entertained both real time video or download video and also images.
 - This is basic application and can be used for final year bachelor degree program.
 
-#Steps or Guides to run the project.
+# Steps or Guides to run the project.
 
 - Create a Virtual environment
     $ python3 -m venv env
